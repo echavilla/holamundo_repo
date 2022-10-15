@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6fyZ/LotKF3avlm9iOgHLHmzwdGiVKa9bx1/ZSl1lZCaxelKb9DGvJDVdpDu03jyVndyrmTE28DtgBZeKdwe6A==",
+  "dgSpecHash": "xygSLkrzhj5JNhhW8MXMFTGzWIaG7S3HNrLrR0slZ7L7ZXdkFs8WPDTR3YvMkLRfenPpBG6UcDWRreGKEYUQgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FamChaRojas\\source\\repos\\HolaMundo\\TestHolaMundo\\TestHolaMundo.csproj",
+  "projectFilePath": "C:\\Users\\FamChaRojas\\Downloads\\HolaMundo\\TestHolaMundo\\TestHolaMundo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FamChaRojas\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\FamChaRojas\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -6,3 +6,11 @@ C:\Users\FamChaRojas\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj
 C:\Users\FamChaRojas\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
 C:\Users\FamChaRojas\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
 C:\Users\FamChaRojas\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\FamChaRojas\Downloads\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
